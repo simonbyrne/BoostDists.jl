@@ -1,3 +1,3 @@
-# BoostDists
+# BoostDists.jl
 
-[![Build Status](https://travis-ci.org/simonbyrne/BoostDists.jl.svg)](https://travis-ci.org/simonbyrne/BoostDists.jl)
+An julia interface to the statistical distributions in the Boost Math library.
